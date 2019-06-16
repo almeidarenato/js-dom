@@ -12,8 +12,8 @@
 
 ## DOM - Seletores e Atributos
 
-Selecionar o elemento com id “copyright” e mostrar todos os atributos dele
-na linha de comando, utilizando elemento.attributes.
+1. Selecionar o elemento com id “copyright” e mostrar todos os atributos dele
+   na linha de comando, utilizando elemento.attributes.
 
 2. Usando getAttribute, mostrar na linha de comando a url à qual o botão do
    Twitter redireciona.
@@ -39,7 +39,7 @@ na linha de comando, utilizando elemento.attributes.
 2. Utilizando removeChild, remover o ícone do FourSquare das redes sociais
    (classe “.social”).
 
-#Créditos
+# Créditos
 
 Miniport by HTML5 UP
 html5up.net | @ajlkn
