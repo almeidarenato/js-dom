@@ -1,7 +1,8 @@
 # Exercicio
 
-Acesso a Página do Exercício: url(http://almeidarenato.github.io/js-dom)
-Acesso ao arquivo _main.js_: url(https://github.com/almeidarenato/js-dom/blob/master/assets/js/main.js)
+Acesso a Página do Exercício: http://almeidarenato.github.io/js-dom
+
+Acesso ao arquivo _main.js_: https://github.com/almeidarenato/js-dom/blob/master/assets/js/main.js
 
 ## Seletores
 
