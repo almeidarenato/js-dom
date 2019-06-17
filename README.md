@@ -17,14 +17,14 @@ Acesso ao arquivo _main.js_: https://github.com/almeidarenato/js-dom/blob/master
 ## DOM - Seletores e Atributos
 
 1. Selecionar o elemento com id “copyright” e mostrar todos os atributos dele
-   na linha de comando, utilizando elemento.attributes.
+   na linha de comando, utilizando `elemento.attributes`.
 
-2. Usando getAttribute, mostrar na linha de comando a url à qual o botão do
+2. Usando `getAttribute`, mostrar na linha de comando a url à qual o botão do
    Twitter redireciona.
-3. Usando getAttribute, mostrar na linha de comando a url à qual o botão do
+3. Usando `getAttribute`, mostrar na linha de comando a url à qual o botão do
    Facebook redireciona.
 4. Ficamos sabendo que o ícone do YouTube direciona ao Google.
-   Queremos mudar isso com JavaScript, usando setAttribute, para que o
+   Queremos mudar isso com JavaScript, usando `setAttribute`, para que o
    ícone direcione ao canal da Digital House no YouTube.
 5. Ficamos sabendo que o form não está funcionando e nos perguntaram se,
    por JavaScript, podemos ver se há um atributo action atribuído e imprimir
@@ -32,7 +32,7 @@ Acesso ao arquivo _main.js_: https://github.com/almeidarenato/js-dom/blob/master
 6. Ficamos sabendo que o programador se confundiu e adicionou o action a
    um atributo url errado. Agora, precisamos excluir e adicionar a url a action,
    tudo por JavaScript.
-7. Utilizando elemento.style, trocar a cor de h2 para vermelho.
+7. Utilizando elemento.style, trocar a cor de `h2` para vermelho.
 8. Precisamos mudar a cor de todos os ícones da página. Lembre que eles
    são da classe “icon”.
 
@@ -40,7 +40,7 @@ Acesso ao arquivo _main.js_: https://github.com/almeidarenato/js-dom/blob/master
 
 1. Traduzir todos os textos da top nav para português. Para isso, podemos
    usar os ids deles com o textContent.
-2. Utilizando removeChild, remover o ícone do FourSquare das redes sociais
+2. Utilizando `removeChild`, remover o ícone do FourSquare das redes sociais
    (classe “.social”).
 
 # Créditos
