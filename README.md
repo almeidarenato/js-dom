@@ -7,10 +7,10 @@ Acesso ao arquivo _main.js_: https://github.com/almeidarenato/js-dom/blob/master
 ## Seletores
 
 1. Utilizando document.getElementById(""), ocultar o elemento `<h1 id=”cabecalho”>` ao carregar a página.
-2. Utilizando querySelector(“”) fazer com que, depois do carregamento da
+2. Utilizando `querySelector(“”)`fazer com que, depois do carregamento da
    página, a coruja fique preta e branca. Para isso, utilizar:
    `elemento.style.filter = "grayscale(100%)";`
-3. Utilizando querySelectorAll(“”) selecionar todos os inputs do formulário e
+3. Utilizando `querySelectorAll(“”)` selecionar todos os inputs do formulário e
    alterar a cor de fundo de cada um (percorrê-los), usando:
    `elemento.style.background = "red";`
 
