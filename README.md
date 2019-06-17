@@ -1,5 +1,8 @@
 # Exercicio
 
+Acesso a Página do Exercício: url(http://almeidarenato.github.io/js-dom)
+Acesso ao arquivo _main.js_: url(https://github.com/almeidarenato/js-dom/blob/master/assets/js/main.js)
+
 ## Seletores
 
 1. Utilizando document.getElementById(""), ocultar o elemento `<h1 id=”cabecalho”>` ao carregar a página.
